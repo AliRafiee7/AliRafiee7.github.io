@@ -1,12 +1,19 @@
 TY  - JOUR
+T1  - A deep convolutional neural network for salt-and-pepper noise removal using selective convolutional blocks
 AU  - Rafiee, Ahmad Ali
 AU  - Farhang, Mahmoud
-TI  - A deep convolutional neural network for salt-and-pepper noise removal
-      using selective convolutional blocks
-T2  - arXiv
+JO  - Applied Soft Computing
+SP  - 110535
 PY  - 2023
-DA  - 2023/2
-DO  - 10.48550/arXiv.2302.05435
-UR  - https://doi.org/10.48550/arXiv.2302.05435
-ID  - Rafiee2023
+DA  - 2023/06/28/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2023.110535
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494623005537
+KW  - Image denoising
+KW  - Salt-and-pepper noise
+KW  - Selective convolutional block
+KW  - Convolutional neural network
+KW  - Deep learning
+KW  - Edge preservation
+AB  - In recent years, there has been an unprecedented upsurge in applying deep learning approaches, specifically convolutional neural networks (CNNs), to solve image denoising problems, owing to their superior performance. However, CNNs mostly rely on Gaussian noise, and there is a conspicuous lack of exploiting CNNs for salt-and-pepper (SAP) noise reduction. In this paper, we proposed a deep CNN model, namely SeConvNet, to suppress SAP noise in gray-scale and color images. To meet this objective, we introduce a new selective convolutional (SeConv) block. SeConvNet is compared to state-of-the-art SAP denoising methods using extensive experiments on various common datasets. The results illustrate that the proposed SeConvNet model effectively restores images corrupted by SAP noise and surpasses all its counterparts at both quantitative criteria and visual effects, especially at high and very high noise densities.
 ER  - 
