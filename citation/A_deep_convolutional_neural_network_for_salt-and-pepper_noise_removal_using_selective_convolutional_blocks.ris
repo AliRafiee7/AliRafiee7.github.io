@@ -3,9 +3,10 @@ T1  - A deep convolutional neural network for salt-and-pepper noise removal usin
 AU  - Rafiee, Ahmad Ali
 AU  - Farhang, Mahmoud
 JO  - Applied Soft Computing
+VL  - 145
 SP  - 110535
 PY  - 2023
-DA  - 2023/06/28/
+DA  - 2023/09/01/
 SN  - 1568-4946
 DO  - https://doi.org/10.1016/j.asoc.2023.110535
 UR  - https://www.sciencedirect.com/science/article/pii/S1568494623005537
